@@ -1,3 +1,4 @@
+//done by Betzabeth Narvaez
 //get top games
 $.ajax({
     type: 'GET',
